@@ -3,7 +3,7 @@ Semester project for comp6000
 
 **Group members:** Blake Moore
 
-**Title:** Blake Moore Portfolio Website
+**Title:** Blake Moore Portfolio
 
 **Problem Statement:** I currently do not have a site or page that potential employers can visit to see my past work and accomplishments.
 
