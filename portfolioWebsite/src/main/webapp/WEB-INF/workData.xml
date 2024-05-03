@@ -1,0 +1,58 @@
+<portfolio>
+	<project>
+        <name>Fundamentals Of Computing I</name>
+        <link>https://github.com/blake-github/comp1210</link>
+    </project>
+    <project>
+        <name>Fundamentals of Computing II</name>
+        <link>https://github.com/blake-github/comp2210</link>
+    </project>
+    <project>
+        <name>Software Construction</name>
+        <link>https://github.com/blake-github/comp2710</link>
+    </project>
+    <project>
+        <name>Principles Of Programming Languages</name>
+        <link>https://github.com/blake-github/comp3220</link>
+    </project>
+    <project>
+        <name>Introduction To Algorithms</name>
+        <link>https://github.com/blake-github/comp3270</link>
+    </project>
+    <project>
+        <name>Computer Organization And Assembly Language Programming</name>
+        <link>https://github.com/blake-github/comp3350</link>
+    </project>
+    <project>
+        <name>Computer Architecture</name>
+        <link>https://github.com/blake-github/comp4300</link>
+    </project>
+    <project>
+        <name>Intro To Computer Networks</name>
+        <link>https://github.com/blake-github/comp4320</link>
+    </project>
+    <project>
+        <name>Machine Learning</name>
+        <link>https://github.com/blake-github/comp5630</link>
+    </project>
+    <project>
+        <name>Software Quality Assurance</name>
+        <link>https://github.com/blake-github/comp5710</link>
+    </project>
+    <project>
+        <name>Semester project for SQA</name>
+        <link>https://github.com/blake-github/TROJANHORSES-SQA2023-AUBURN</link>
+    </project>
+    <project>
+        <name>Secure Software Process</name>
+        <link>https://github.com/blake-github/comp6700</link>
+    </project>
+    <project>
+        <name>Digital Forensics</name>
+        <link>https://github.com/blake-github/comp6350</link>
+    </project>
+    <project>
+        <name>Computer And Network Security</name>
+        <link>https://github.com/blake-github/comp6370</link>
+    </project>
+</portfolio>
